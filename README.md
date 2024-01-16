@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hello there 👋 My name is Tyler Fetterman, I like learning about all different types of coding and how it can all be used.
+
+I'm very interested in web design and AI technologies.
 
 <!--
-**Tman2173/Tman2173** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Javascript, HTML, and CSS.
 - 👯 I’m looking to collaborate on anything!
